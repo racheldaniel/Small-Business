@@ -1,0 +1,56 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Barb Jones",
+      "hireDate": "10-01-2015",
+      "status": "exempt",
+      "position": "Sr Manager of IS",
+      "dept": 4,
+      "computer": 2
+  
+    },
+    {
+      "id": 2,
+      "name": "Candy Korn",
+      "hireDate": "03-01-2018",
+      "status": "non-exempt",
+      "position": "Personnel Specialist",
+      "dept": 3,
+      "computer": 1
+  
+    }
+  ],
+  
+  "departments": [
+    {
+      "id": 1,
+      "name": "Research and Development"
+    },
+    {
+      "id": 2,
+      "name": "Accounting"
+    },
+    {
+      "id": 3,
+      "name": "Human Resources"
+    },
+    {
+      "id": 4,
+      "name": "Information Technology"
+    }
+  ],
+  
+  "computers": [
+    {
+      "id": 1,
+      "model": "Toshiba Tecra C40-D1412",
+      "RAM": "1 TB"
+    },
+    {
+      "id": 2,
+      "model": "HP Envy x360",
+      "RAM": "1 TB"
+    }
+  ]
+}
